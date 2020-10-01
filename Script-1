@@ -1,4 +1,4 @@
-$Destination="\\SVATHOME002\Backup$\NB BaseIT" #Copy the Files to this Location
+$Destination="\\SVATHOME002\Backup$\NB BaseIT" #Copy Files to this Location
 $Destination="C:\Users\seimi\Downloads"
 $Staging="C:\Users\seimi\Downloads\Staging"
 $ClearStaging=$true # When $true, Staging Dir will be cleared
